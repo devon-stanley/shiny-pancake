@@ -166,32 +166,6 @@ ___WEB_PERMISSIONS___
   {
     "instance": {
       "key": {
-        "publicId": "inject_hidden_iframe",
-        "versionId": "1"
-      },
-      "param": [
-        {
-          "key": "urls",
-          "value": {
-            "type": 2,
-            "listItem": [
-              {
-                "type": 1,
-                "string": "https://test.website.com/test"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "clientAnnotations": {
-      "isEditedByUser": true
-    },
-    "isRequired": true
-  },
-  {
-    "instance": {
-      "key": {
         "publicId": "read_data_layer",
         "versionId": "1"
       },
@@ -372,7 +346,6 @@ const getReferrerUrl = require('getReferrerUrl');
 const query = require('queryPermission');
 const createQueue = require('createQueue');
 const getUrl = require('getUrl');
-const iframe = require('injectHiddenIframe');
 const log = require('logToConsole');
 const copyDL = require('copyFromDataLayer');
 const readCharacterSet = require('readCharacterSet');
