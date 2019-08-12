@@ -1,6 +1,10 @@
 {
     "versions": [
         {
+            "sha": "3d8ceeb",
+            "changeNotes": "Remove iframe permissions to address privacy concerns",
+        },
+        {
             "sha": "ce58f7d",
             "changeNotes": "Updated brand and display name!",
         },
