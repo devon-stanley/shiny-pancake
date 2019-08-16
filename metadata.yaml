@@ -1,5 +1,9 @@
 versions:
   -
+    sha: b453460
+    changeNotes: |
+      Remove thumbnail due to syrup concerns
+  -
     sha: 3d8ceeb
     changeNotes: |
       Remove iframe permission to address privacy concerns
