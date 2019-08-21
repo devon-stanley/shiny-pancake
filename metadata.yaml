@@ -1,6 +1,6 @@
 versions:
   -
-    sha: b453460
+    sha: 80ab1a8
     changeNotes: |
       Remove thumbnail due to syrup concerns
   -
