@@ -9,8 +9,6 @@
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
-    "logo": "",
-    "thumbnail": "",
   },
   "description": "",
   "containerContexts": [
