@@ -10,7 +10,7 @@
     "id": "brand_dummy",
     "displayName": "",
   },
-  "description": "",
+  "description": "This is an example of a template description.\n Let's see what it looks like.",
   "containerContexts": [
     "WEB"
   ]
