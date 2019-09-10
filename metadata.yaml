@@ -1,5 +1,9 @@
 versions:
   -
+    sha: 1c3b2af
+    changeNotes: |
+      Added a well written discription :)
+  -
     sha: 80ab1a8
     changeNotes: |
       Remove thumbnail due to syrup concerns
