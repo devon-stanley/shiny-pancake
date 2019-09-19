@@ -1,5 +1,9 @@
 versions:
   -
+    sha: 2c3e214
+    changeNotes: |
+      Agreed to something by signing the TOS?
+  -
     sha: 1c3b2af
     changeNotes: |
       Added a well written discription :)
