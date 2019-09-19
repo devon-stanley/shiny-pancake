@@ -1,6 +1,6 @@
 ___TERMS_OF_SERVICE___
 
-Placeholder ToS content
+Placeholder ToS content.
 
 ___INFO___
 
